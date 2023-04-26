@@ -1,0 +1,16 @@
+(1)What are the new tags added in HTML5? 
+Ans.--The commonly used new HTML5 tags are <figure>, <article>, <header>, <main>,<footer>, <nav>, and <section>
+
+(2)How to embed audio and video in a webpage? 
+Ans.--The <audio> element in HTML5 is used to embed audio files to your webpage
+The “controls” attribute displays the audio player control.
+The “autoplay” attribute starts automatically playing the music when the player is loaded.
+The “loop” attribute is used to loop the audio file continuously.
+..................................................
+HTML5 also allows you to embed video on your page using <video> element. Similar to audio, video element also has attributes to control the display of the player on the browser
+
+(3)Semantic element in HTML5?
+Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way.
+
+(4)Canvas and SVG tags 	
+SVG is a language for describing 2D graphics in XML. Canvas draws 2D graphics, on the fly (with a JavaScript). SVG is XML based, which means that every element is available within the SVG DOM. You can attach JavaScript event handlers for an element.
